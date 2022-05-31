@@ -1,11 +1,14 @@
+.btn-pesquisar{
+    background-color: #8B0000;
+}
 #myFooter {
-    background-color: #2a45b2;
+    background-color: #B22222;
     color: white;
     padding-top: 30px;
 }
 
 #myFooter .footer-copyright {
-    background-color: #29376a;
+    background-color: #8B0000;
     padding-top: 3px;
     padding-bottom: 3px;
     text-align: center;
